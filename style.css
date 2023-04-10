@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.circle {
+  width: 200px;
+  height: 200px;
+  background: red;
+  border: 5px solid black;
+  border-radius: 50%;
+}
